@@ -1,0 +1,6 @@
+[submodule "open-gpu-kernel-modules"]
+	path = open-gpu
+	url = https://github.com/NVIDIA/open-gpu-kernel-modules/
+[submodule "open-gpu"]
+	path = open-gpu
+	url = https://github.com/NVIDIA/open-gpu-kernel-modules/
